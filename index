@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>laituesympa</title>
+    <link rel="stylesheet" href="styledeliveroo.css">
+    <script src="script/maindeliveroo.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,600;0,800;0,900;1,400;1,600;1,800;1,900&display=swap" rel="stylesheet">
+    <style> 
+        a:link { 
+            text-decoration: none; 
+            color: blue;
+        } 
+        a:hover { 
+            text-decoration: none; 
+            color: blue;
+        } 
+        a {
+    color:blue;
+    text-decoration: none;
+}
+    </style> 
+</head> 
+
+
+<!-------------
+    DRAGGABLE WINDOW CODE CREDIT TO https://codepen.io/jkasun/pen/QrLjXP
+
+
+
+        |\__/,|   (`\   (he...hewo)
+      _.|o o  |_   ) )
+     -(((---(((--------         
+     
+     (credit to https://www.asciiart.eu/animals/cats)        
+    
+    
+   .  ∧ ∧
+     (´･ω･)  =3
+     /　 ⌒ヽ
+    (人＿＿つ_つ 
+    
+    (credit to @AsciiArtGallery)
+
+
+
+
+
+
+
+    
+
+    -------------------->
+
+
+
+
+
+
+   
+
+<body>
+
+
+
+   <div id="logo"> <img src="img/logo.png" alt=""> </div>
+
+ 
+   
+
+   
+
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+<div class="cardune" > 
+
+    <div class="popup_one">
+
+
+        <div class="popup-header">
+
+
+            <div class="ovalheader1">
+
+                <div id="circle1"> </div>
+                <div id="circle2"></div>
+                <div id="circle3"></div>
+
+            </div>
+
+
+        </div>
+
+        <h3>Deliveroo <br> Add a feature <p>CHECK OUT THE DETAILED ARTICLE<a href="https://medium.com/@margauxjulien21/deliveroo-step-your-game-up-fe12ff646ce4"> HERE </a>  </p></br> </h3>
+
+
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+
+
+
+
+        <section class="card3">
+        
+                 <div class="popup_three">
+        
+        
+                    <div class="popup-header">
+                        <div class="ovalheader3"> 
+                            <div id="cercle1"> </div>
+                            <div id="cercle2"></div>
+                            <div id="cercle3"></div>
+                        </div>
+                    </div>
+        
+                    <h3> You can't split bills in Deliveroo. 
+                                         That means everytime you want to order in group someone will have to take one for the 
+                                         team and pay the entire bill and have each person pay back what they owe. 
+                    </h3>
+                </div>
+        </section>
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+
+
+
+<section class="card4">
+    <div class="popup_four">
+       <div class="popup-header">
+           <div class="ovalheader4">
+
+               <div id="red"> </div>
+               <div id="yellow"></div>
+               <div id="green"></div>
+
+           </div>
+           <div class="picture_four"> <img src="img/deliveroo-qrcode.svg" width="357" height="635">     </div> </a>
+       </div>
+   </div>
+</section>
+
+
+
+
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+
+
+
+
+
+<section class="card5">
+        
+    <div class="popup_five">
+
+
+       <div class="popup-header">
+           <div class="ovalheader5"> 
+               <div id="cercle1"> </div>
+               <div id="cercle2"></div>
+               <div id="cercle3"></div>
+           </div>
+       </div>
+
+       <h3> By having a cart to share with friends via a QR CODE 
+           It would now be possible to pay individually for each dishes and 
+           only complete the order when all the dishes have been paid for.
+           </h3> 
+
+           
+       
+   </div>
+</section>
+
+
+
+
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+
+
+        <section class="card2">
+             <div class="popup_two">
+                <div class="popup-header">
+                    <div class="ovalheader2">
+    
+                        <div id="red"> </div>
+                        <div id="yellow"></div>
+                        <div id="green"></div>
+    
+                    </div>
+                    <div class="picture_two"> <img src="img/deliveroo-1.svg"width="357" height="635">     </div> </a>
+                </div>
+            </div>
+        </section>
+    
+
+
+   
+
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+ 
+
+
+     
+
+               
+
+         
+            
+
+        
+
+
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+
+
+
+
+
+
+
+
+
+<section class="card7">
+    <div class="popup_seven">
+       <div class="popup-header">
+           <div class="ovalheader7">
+
+               <div id="red"> </div>
+               <div id="yellow"></div>
+               <div id="green"></div>
+
+           </div>
+           <div class="picture_seven"> <img src="img/groupe-iphone-deliveroo2.svg">     </div> </a>
+       </div>
+   </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+
+    <section class="card6">
+        <div class="popup_six">
+           <div class="popup-header">
+               <div class="ovalheader6">
+    
+                   <div id="red"> </div>
+                   <div id="yellow"></div>
+                   <div id="green"></div>
+    
+               </div>
+               <div class="picture_six"> <img src="img/groupe-iphone-deliveroo1.svg">     </div> </a>
+           </div>
+       </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+<!-----------BREAK OF CARD----------------->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+        
+
+
+
+
+
+
+
+
+
+</body>
+</html>
